@@ -1,0 +1,70 @@
+Vivek Teja’s Cloud & DevOps Portfolio Website:
+
+A sleek, modern, and responsive static website hosted on AWS S3 with
+CloudFront CDN — featuring clean design, smooth hover effects, and
+easy navigation to showcase skills, projects, and vide
+
+
+
+/* style.css */
+
+/* Body Background and Font */
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styling */
+header {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+header h1 {
+  font-size: 3em;
+  color: #00ffe7;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.2em;
+  color: #bbb;
+}
+
+/* Section Container */
+section {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 30px;
+}
+
+/* Card Style */
+.card {
+  background-color: #1f2c3a;
+  margin: 20px 0;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+/* Card Hover Effect */
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 20px #00ffe7;
+}
+
+/* Headings inside Cards */
+h2 {
+  color: #00ffe7;
+  margin-bottom: 15px;
+}
+
+/* Paragraph Text */
+p {
+  line-height: 1.6;
+  color: #ddd;
+}

@@ -1,0 +1,58 @@
+ Vivek Teja’s Cloud & DevOps Portfolio Website:
+
+Welcome to my portfolio project showcasing my skills in Cloud Computing and DevOps through a beautifully designed, fast, and secure static website hosted on AWS
+
+---
+
+Project Overview
+
+This project demonstrates how to build and deploy a professional static website using **Amazon S3** and **CloudFront** CDN, providing:
+
+ Lightning-fast global delivery  
+ Scalable and cost-effective hosting  
+Secure public access configuration  
+ Clean, modern, and responsive design  
+
+
+Technologies Used:
+
+Amazon S3 for static website hosting  
+Amazon CloudFront as a Content Delivery Network (CDN)  
+HTML5 and CSS3for structure and styling  
+ Optional JavaScript for interactivity (if needed)  
+
+ Project Structure:
+
+
+---
+
+ How to Use
+
+1. Clone or download this repository.  
+2. Upload the website files (`index.html`, `css/`, `js/` folder) to your **Amazon S3** bucket.  
+3. Enable static website hosting on your S3 bucket.  
+4. Configure your **CloudFront** distribution to use the S3 website endpoint as the origin.  
+5. Set proper bucket policies to allow public read access.  
+6. Access your site via the CloudFront domain to enjoy fast and secure content delivery.  
+
+---
+
+ Pro Tips
+
+Make sure to disable Block Public Access settings in S3 for public visibility.  
+ CloudFront caches your site — changes may take some minutes to propagate globally.  
+Watch the detailed walkthrough videos in the videos/ folder for step-by-step setup guidance.  
+
+
+Contact Me:
+
+Feel free to reach out for questions, collaborations, or feedback!
+
+Email:vivektejaeedha@gmail.com
+LinkedIn: [linkedin.com/in/EEDHA VIVEK TEJA](https://www.linkedin.com/in/eedha-vivek-teja-340440319?lipi=urn%3Ali%3Apage%3Ad_UNKNOWN_ROUTE_profile-edit.topcard%3B%2FziCqB4eQJ%2BOjWv6wqLcFQ%3D%3D)  
+
+---
+
+Thank you for visiting my project!  
+VIVEK TEJA EEDHA
+
